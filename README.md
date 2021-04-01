@@ -1,1 +1,1 @@
-# 自学吴恩达深度学习系列课后编程习题详细注释
+# Study for deeplearning
